@@ -1,0 +1,34 @@
+{
+  "version": "1.0",
+  "timestamp": "2026-04-27T11:15:03.223Z",
+  "source": "auto-postool",
+  "partial": false,
+  "phase": null,
+  "phase_name": null,
+  "phase_dir": null,
+  "plan": null,
+  "task": null,
+  "total_tasks": null,
+  "status": "auto-checkpoint",
+  "completed_tasks": [],
+  "remaining_tasks": [],
+  "blockers": [],
+  "human_actions_pending": [],
+  "decisions": [],
+  "uncommitted_files": [
+    {
+      "status": "??",
+      "path": ".planning/"
+    },
+    {
+      "status": "??",
+      "path": "exam-answers.pdf"
+    },
+    {
+      "status": "??",
+      "path": "exam-answers.tex"
+    }
+  ],
+  "next_action": null,
+  "context_notes": "Recent commits:\n2fb796d Actualizada notes.tex\nfc2b5a7 Completado de clases\n009b9bf Agregadas clases 7, 8 y 9\nac6e8dd Agregadas preguntas del primer parcial\n5577967 Completado de clases"
+}
