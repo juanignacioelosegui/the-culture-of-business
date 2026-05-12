@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "timestamp": "2026-04-28T23:03:45.614Z",
+  "timestamp": "2026-05-12T20:55:29.506Z",
   "source": "auto-postool",
   "partial": false,
   "phase": null,
@@ -25,14 +25,34 @@
       "path": "exam-answers.pdf"
     },
     {
-      "status": "M",
+      "status": "D",
       "path": "exam-answers.tex"
     },
     {
-      "status": "M",
+      "status": "D",
       "path": "notes.pdf"
+    },
+    {
+      "status": "D",
+      "path": "notes.tex"
+    },
+    {
+      "status": "??",
+      "path": "first-exam-answers.pdf"
+    },
+    {
+      "status": "??",
+      "path": "first-exam-answers.tex"
+    },
+    {
+      "status": "??",
+      "path": "first-exam-notes.tex"
+    },
+    {
+      "status": "??",
+      "path": "second-exam-notes.tex"
     }
   ],
   "next_action": null,
-  "context_notes": "Recent commits:\n90f639e Agregadas respuestas del parcial\n2fb796d Actualizada notes.tex\nfc2b5a7 Completado de clases\n009b9bf Agregadas clases 7, 8 y 9\nac6e8dd Agregadas preguntas del primer parcial"
+  "context_notes": "Recent commits:\n97481b4 Tomada clase 14 y 15\n32d73b7 Tomada clase 13\n90f639e Agregadas respuestas del parcial\n2fb796d Actualizada notes.tex\nfc2b5a7 Completado de clases"
 }
