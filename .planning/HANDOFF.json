@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "timestamp": "2026-05-12T20:55:29.506Z",
+  "timestamp": "2026-05-14T21:00:58.696Z",
   "source": "auto-postool",
   "partial": false,
   "phase": null,
@@ -21,38 +21,10 @@
       "path": ".planning/HANDOFF.json"
     },
     {
-      "status": "D",
-      "path": "exam-answers.pdf"
-    },
-    {
-      "status": "D",
-      "path": "exam-answers.tex"
-    },
-    {
-      "status": "D",
-      "path": "notes.pdf"
-    },
-    {
-      "status": "D",
-      "path": "notes.tex"
-    },
-    {
-      "status": "??",
-      "path": "first-exam-answers.pdf"
-    },
-    {
-      "status": "??",
-      "path": "first-exam-answers.tex"
-    },
-    {
-      "status": "??",
-      "path": "first-exam-notes.tex"
-    },
-    {
-      "status": "??",
+      "status": "M",
       "path": "second-exam-notes.tex"
     }
   ],
   "next_action": null,
-  "context_notes": "Recent commits:\n97481b4 Tomada clase 14 y 15\n32d73b7 Tomada clase 13\n90f639e Agregadas respuestas del parcial\n2fb796d Actualizada notes.tex\nfc2b5a7 Completado de clases"
+  "context_notes": "Recent commits:\n3501dbf Tomada clase 16\n9ca2ab1 Rename de clases, armado resumen\n97481b4 Tomada clase 14 y 15\n32d73b7 Tomada clase 13\n90f639e Agregadas respuestas del parcial"
 }
