@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "timestamp": "2026-05-14T21:00:58.696Z",
+  "timestamp": "2026-05-21T20:23:19.612Z",
   "source": "auto-postool",
   "partial": false,
   "phase": null,
@@ -18,13 +18,13 @@
   "uncommitted_files": [
     {
       "status": "M",
-      "path": ".planning/HANDOFF.json"
+      "path": "second-exam-notes.tex"
     },
     {
-      "status": "M",
-      "path": "second-exam-notes.tex"
+      "status": "??",
+      "path": "classes/18.pdf"
     }
   ],
   "next_action": null,
-  "context_notes": "Recent commits:\n3501dbf Tomada clase 16\n9ca2ab1 Rename de clases, armado resumen\n97481b4 Tomada clase 14 y 15\n32d73b7 Tomada clase 13\n90f639e Agregadas respuestas del parcial"
+  "context_notes": "Recent commits:\n1dd2719 Tomada clase 17\ndfb7810 Avance resumen\n3501dbf Tomada clase 16\n9ca2ab1 Rename de clases, armado resumen\n97481b4 Tomada clase 14 y 15"
 }
